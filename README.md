@@ -1,4 +1,4 @@
-# AI Workflow Testing (QA Project)
+# QA testing project for AI/LLM workflows (manual + API testing)
 
 This project demonstrates hands-on QA testing of AI/LLM-driven workflows, focusing on output validation, edge cases, and real user behavior.
 
